@@ -1,0 +1,24 @@
+C:\Users\HP\Downloads\Car.Web\Car.Core\bin\Debug\net6.0\Car.Core.deps.json
+C:\Users\HP\Downloads\Car.Web\Car.Core\bin\Debug\net6.0\Car.Core.dll
+C:\Users\HP\Downloads\Car.Web\Car.Core\bin\Debug\net6.0\Car.Core.pdb
+C:\Users\HP\Downloads\Car.Web\Car.Core\obj\Debug\net6.0\Car.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Car.Web\Car.Core\obj\Debug\net6.0\Car.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Car.Web\Car.Core\obj\Debug\net6.0\Car.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Car.Web\Car.Core\obj\Debug\net6.0\Car.Core.AssemblyInfo.cs
+C:\Users\HP\Downloads\Car.Web\Car.Core\obj\Debug\net6.0\Car.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Car.Web\Car.Core\obj\Debug\net6.0\Car.Core.dll
+C:\Users\HP\Downloads\Car.Web\Car.Core\obj\Debug\net6.0\refint\Car.Core.dll
+C:\Users\HP\Downloads\Car.Web\Car.Core\obj\Debug\net6.0\Car.Core.pdb
+C:\Users\HP\Downloads\Car.Web\Car.Core\obj\Debug\net6.0\ref\Car.Core.dll
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\bin\Debug\net6.0\Car.Core.deps.json
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\bin\Debug\net6.0\Car.Core.dll
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\bin\Debug\net6.0\Car.Core.pdb
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\obj\Debug\net6.0\Car.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\obj\Debug\net6.0\Car.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\obj\Debug\net6.0\Car.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\obj\Debug\net6.0\Car.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\obj\Debug\net6.0\Car.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\obj\Debug\net6.0\Car.Core.dll
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\obj\Debug\net6.0\refint\Car.Core.dll
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\obj\Debug\net6.0\Car.Core.pdb
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Core\obj\Debug\net6.0\ref\Car.Core.dll
