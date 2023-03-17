@@ -1,0 +1,19 @@
+2023-03-17 01:55:32 [INFO] Now listening on: https://localhost:7230
+2023-03-17 01:55:32 [INFO] Now listening on: http://localhost:5206
+2023-03-17 01:55:32 [INFO] Application started. Press Ctrl+C to shut down.
+2023-03-17 01:55:32 [INFO] Hosting environment: Development
+2023-03-17 01:55:32 [INFO] Content root path: C:\Users\HP\Downloads\Car.Web\Car.Web\
+2023-03-17 01:55:38 [ERROR] An error occurred
+2023-03-17 01:55:53 [ERROR] An error occurred
+2023-03-17 13:45:08 [INFO] Now listening on: https://localhost:7230
+2023-03-17 13:45:08 [INFO] Now listening on: http://localhost:5206
+2023-03-17 13:45:08 [INFO] Application started. Press Ctrl+C to shut down.
+2023-03-17 13:45:08 [INFO] Hosting environment: Development
+2023-03-17 13:45:08 [INFO] Content root path: C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Web\
+2023-03-17 13:46:07 [INFO] Now listening on: https://localhost:7230
+2023-03-17 13:46:07 [INFO] Now listening on: http://localhost:5206
+2023-03-17 13:46:07 [INFO] Application started. Press Ctrl+C to shut down.
+2023-03-17 13:46:07 [INFO] Hosting environment: Development
+2023-03-17 13:46:07 [INFO] Content root path: C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Web\
+2023-03-17 13:46:12 [ERROR] An error occurred
+2023-03-17 13:46:21 [ERROR] An error occurred
