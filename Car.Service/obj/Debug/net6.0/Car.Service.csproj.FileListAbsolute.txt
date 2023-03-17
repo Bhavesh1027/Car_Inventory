@@ -1,0 +1,30 @@
+C:\Users\HP\Downloads\Car.Web\Car.Service\bin\Debug\net6.0\Car.Service.deps.json
+C:\Users\HP\Downloads\Car.Web\Car.Service\bin\Debug\net6.0\Car.Service.dll
+C:\Users\HP\Downloads\Car.Web\Car.Service\bin\Debug\net6.0\Car.Service.pdb
+C:\Users\HP\Downloads\Car.Web\Car.Service\bin\Debug\net6.0\Car.Core.dll
+C:\Users\HP\Downloads\Car.Web\Car.Service\bin\Debug\net6.0\Car.Core.pdb
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\Car.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\Car.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\Car.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\Car.Service.AssemblyInfo.cs
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\Car.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\Car.Service.csproj.CopyComplete
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\Car.Service.dll
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\refint\Car.Service.dll
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\Car.Service.pdb
+C:\Users\HP\Downloads\Car.Web\Car.Service\obj\Debug\net6.0\ref\Car.Service.dll
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\bin\Debug\net6.0\Car.Service.deps.json
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\bin\Debug\net6.0\Car.Service.dll
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\bin\Debug\net6.0\Car.Service.pdb
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\bin\Debug\net6.0\Car.Core.dll
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\bin\Debug\net6.0\Car.Core.pdb
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\Car.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\Car.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\Car.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\Car.Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\Car.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\Car.Service.csproj.CopyComplete
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\Car.Service.dll
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\refint\Car.Service.dll
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\Car.Service.pdb
+C:\Users\HP\Desktop\New folder\Car_Inventory\Car_Inventory\Car.Service\obj\Debug\net6.0\ref\Car.Service.dll
